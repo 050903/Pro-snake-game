@@ -6,13 +6,17 @@ A professional-grade Snake game built with Python and Pygame, featuring smooth a
 ![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Pics gameplay
-![image](https://github.com/user-attachments/assets/0bc570c6-c87d-4fbe-9304-0ab1adf61ed7)
-![image](https://github.com/user-attachments/assets/1bd8b3fb-fc84-4fed-bc16-e520ec11a39e)
-![image](https://github.com/user-attachments/assets/d26be022-76b5-41ae-9e2f-571f75eb1985)
-![image](https://github.com/user-attachments/assets/f478f7d4-5c38-4aa9-94f8-f25a1e5610e3)
-![image](https://github.com/user-attachments/assets/b0749b00-9b05-4c0d-8fe5-c4f33b3451fb)
-![image](https://github.com/user-attachments/assets/b1470e58-ee05-4bb7-bdb6-f967c0ef4ae6)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/277e731f-6ca6-40c4-b8df-2ff5060a512d)
+![image](https://github.com/user-attachments/assets/a981836a-fbae-42c2-b006-b01f351b732e)
+![image](https://github.com/user-attachments/assets/59f2e79f-1d34-40d3-8801-c11c19bb7027)
+![image](https://github.com/user-attachments/assets/e694c9af-a4b7-4e92-942f-3aa6d0e76f2e)
+![image](https://github.com/user-attachments/assets/bce7b676-c898-4236-b2b1-53e939160820)
+![image](https://github.com/user-attachments/assets/db1296da-c588-46df-a9e4-ee94d4e3619f)
+![image](https://github.com/user-attachments/assets/2915257b-2f97-45d6-a6a4-1e30482f94c6)
+![image](https://github.com/user-attachments/assets/3a5a537e-f31d-4e19-84c6-6847dd5764c4)
+![image](https://github.com/user-attachments/assets/662c8e5a-d1d7-4f24-acc0-c21c5bf5ae98)
+![image](https://github.com/user-attachments/assets/49e4b745-4a3e-4234-bdfe-a3cc6517f7cf)
+![image](https://github.com/user-attachments/assets/d61df58e-0428-492c-aa3c-b1986fc02f2e)
 
 ## ✨ Features
 
